@@ -64,8 +64,7 @@ label {
   font-size: 1.125rem;
   margin-bottom: 0.5rem;
 }
-/* استایل دادن به فرم و دکمه و تکست بتکس
-  به طور کلی استایل دادن به کل فرم */
+
 input,
 button,
 select,
@@ -79,7 +78,7 @@ textarea {
 button {
   border: none;
 }
-/* استایل کانتینر */
+
 .container {
   width: 100%;
   margin: 3.125rem auto 0 auto;
